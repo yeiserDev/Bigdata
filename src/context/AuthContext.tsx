@@ -18,8 +18,8 @@ export const useAuth = () => {
 const DUMMY_USER = {
   id: 1,
   name: 'Tilin',
-  email: 'tilin@demo.com',
-  password: '1234'
+  email: 'picaso@picaso',
+  password: '123'
 };
 
 export const AuthProvider = ({ children }: { children: ReactNode }) => {
